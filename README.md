@@ -38,7 +38,7 @@ mkdir
 cd mkdir
 cmake ..
 make
-./ECR-TDPDS
+./ECR-KPPDS
 ```
 
 
