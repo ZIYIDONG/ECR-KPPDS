@@ -1,6 +1,6 @@
 # IBTRPRE-Demo
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/ZIYIDONG/PBC-IBTRPRE) [![License](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](/LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](/LICENSE)
 
 ## Table of Contents
 
@@ -11,7 +11,8 @@
 
 ## About <a name = "about"></a>
 
-This is a demo for Paper.
+This is the IBTRPRE-Demo in Paper：
+K. Yuan, Z. Dong, X. Li, Z. Liu, C. Jia and S. Lv, "An Efficient and Collusion-Resistant Key Parameters Predistribution System for Day-Ahead Electricity Auctions," in IEEE Internet of Things Journal, vol. 12, no. 24, pp. 53378-53395, 15 Dec.15, 2025, doi: 10.1109/JIOT.2025.3616212.
 
 ## Getting Started <a name = "getting_started"></a>
 
