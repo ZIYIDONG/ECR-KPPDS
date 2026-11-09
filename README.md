@@ -11,8 +11,9 @@
 
 ## About <a name = "about"></a>
 
-This is the IBTRPRE-Demo in Paper：
-K. Yuan, Z. Dong, X. Li, Z. Liu, C. Jia and S. Lv, "An Efficient and Collusion-Resistant Key Parameters Predistribution System for Day-Ahead Electricity Auctions," in IEEE Internet of Things Journal, vol. 12, no. 24, pp. 53378-53395, 15 Dec.15, 2025, doi: 10.1109/JIOT.2025.3616212.
+This repository provides the IBTRPRE-Demo for the paper:
+
+> K. Yuan, Z. Dong, X. Li, Z. Liu, C. Jia, and S. Lv, "An Efficient and Collusion-Resistant Key Parameters Predistribution System for Day-Ahead Electricity Auctions," in *IEEE Internet of Things Journal*, vol. 12, no. 24, pp. 53378–53395, 15 Dec. 2025, doi: 10.1109/JIOT.2025.3616212.
 
 ## Getting Started <a name = "getting_started"></a>
 
